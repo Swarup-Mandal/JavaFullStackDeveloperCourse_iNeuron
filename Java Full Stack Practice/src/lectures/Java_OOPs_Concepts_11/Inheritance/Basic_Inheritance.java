@@ -10,7 +10,7 @@ class Demo1{        //Demo1
 	}
 }
 
-class Demo2 extends Demoo1 {    //Demo2 child class.
+class Demo2 extends Demoo1 {    //Demo2 child class
 	
 }
 
