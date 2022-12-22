@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Polymorphism;
 class Planee{
 	public void takeOff() {
 		System.out.println("Plane is Taking Off");
@@ -43,10 +43,6 @@ public class RunTime_Polymorphism_2 {
 		Airport ap = new Airport();  //plymorphism
 		ap.permit(pp);  //Passenger Plane class calling
 		ap.permit(jp);  //Jet Plane class calling
-		
-		
-		
-		
 	}
 
 }
