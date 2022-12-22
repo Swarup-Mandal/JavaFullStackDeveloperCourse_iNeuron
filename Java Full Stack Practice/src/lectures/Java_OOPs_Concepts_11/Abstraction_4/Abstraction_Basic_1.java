@@ -25,7 +25,7 @@ abstract class Plane{     //abstract Parent class
 	}
 	
 	public void carryGoods() {     //This specialized method of child so, paren don't have this
-		System.out.println("JetPlane ccan carry ogoods and Weapen");
+		System.out.println("JetPlane(Specialized Method) can carry goods and Weapon");
 	}
 }
 
@@ -51,6 +51,7 @@ public class Abstraction_Basic_1 {
 		pp.takeOff();
 		pp.fly();
 		pp.land();
+		((JetPlane)(pp)).carryGoods();
 		System.out.println();
 		
 		//Plane p = new Plane();   //Cannot instantiate the type Plane bcz it is abstract class
