@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Encapsulation;
+package lectures.Java_OOPs_Concepts_11.Encapsulation_1;
 /*
  * //Encapsulation => (Private,setter(),getter(),shadowing problem,this keyword)
 */

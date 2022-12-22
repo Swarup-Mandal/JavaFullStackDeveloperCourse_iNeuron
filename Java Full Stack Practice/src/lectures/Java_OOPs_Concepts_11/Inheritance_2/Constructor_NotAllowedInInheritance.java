@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 //Constructors not allow in Inheritance => However, parent class constructor will ge called by Super()
   //calling inside the child class by-default
 

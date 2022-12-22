@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 //private Date Members is not allowed in inheritance
 
 class Parent11{

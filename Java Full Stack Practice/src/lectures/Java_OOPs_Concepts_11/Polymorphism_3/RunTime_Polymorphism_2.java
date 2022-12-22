@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Polymorphism;
+package lectures.Java_OOPs_Concepts_11.Polymorphism_3;
 class Planee{
 	public void takeOff() {
 		System.out.println("Plane is Taking Off");

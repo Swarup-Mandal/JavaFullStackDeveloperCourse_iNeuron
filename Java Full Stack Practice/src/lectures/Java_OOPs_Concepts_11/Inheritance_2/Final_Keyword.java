@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 //1. final class does not partcipate in inheritance
 
 //final class Vehical{

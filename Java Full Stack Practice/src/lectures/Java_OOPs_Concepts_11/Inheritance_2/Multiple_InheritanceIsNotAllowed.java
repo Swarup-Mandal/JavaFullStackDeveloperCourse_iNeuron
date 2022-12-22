@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 //Multiple Inheritance is not allowed in java
 class Parent1{
 	String name = "Ayush";

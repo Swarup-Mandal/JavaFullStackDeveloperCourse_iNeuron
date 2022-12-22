@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 
 //super keyword will call the parent class instance variable 
 class Dem1{

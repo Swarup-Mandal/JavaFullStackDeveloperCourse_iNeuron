@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 //Multiple Inheritance
 
 class Demo11{   //extends Object     //Demo11 is Parent of Demo22

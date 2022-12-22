@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Encapsulation;
+package lectures.Java_OOPs_Concepts_11.Encapsulation_1;
 
 class Student3{  //class
 	private String name; //Data members

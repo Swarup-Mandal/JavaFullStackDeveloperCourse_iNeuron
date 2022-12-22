@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Polymorphism;
+package lectures.Java_OOPs_Concepts_11.Polymorphism_3;
 
 class Pareent1{
 	public void cry() {

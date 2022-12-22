@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Encapsulation;
+package lectures.Java_OOPs_Concepts_11.Encapsulation_1;
 /*
  * //Own Setter => //***you can creat your own setter() but not getter()
 */

@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Encapsulation;
+package lectures.Java_OOPs_Concepts_11.Encapsulation_1;
 //constructor => class name and method name should be same
 
 class Student2{  //class

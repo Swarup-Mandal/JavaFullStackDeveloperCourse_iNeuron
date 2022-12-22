@@ -1,4 +1,4 @@
-package lectures.Java_OOPs_Concepts_11.Inheritance;
+package lectures.Java_OOPs_Concepts_11.Inheritance_2;
 //Hierarchy Inheritance
 class Demo111{   //Demo11 is Parent of all others class
 	String name = "Ayush";
