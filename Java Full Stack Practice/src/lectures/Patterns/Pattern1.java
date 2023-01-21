@@ -48,6 +48,10 @@ public class Pattern1 {
 		}
 		
 
+		
+		
+		
+		
 	}
 
 }

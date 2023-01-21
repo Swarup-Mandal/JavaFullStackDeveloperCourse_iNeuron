@@ -28,12 +28,12 @@ public class Pattern3 {
 				else {
 					System.out.print(" ");
 				}
-				
 			}
 			System.out.println();
-			
 		}
 
+		
+		
 	}
 
 }

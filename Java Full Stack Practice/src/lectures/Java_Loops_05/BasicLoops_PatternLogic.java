@@ -57,8 +57,7 @@ public class BasicLoops_PatternLogic {
 //		              *   *     
 //	                  *   *
 //		              *   *
-//		              *****
-		              
+//		              *****    
 //		int n = 5;
 //		for(int i=0;i<n;i++)   //outer loops
 //		{
@@ -84,7 +83,6 @@ public class BasicLoops_PatternLogic {
 //		                *   *
 //		                *   *
 //		int n = 5;
-//		
 //		for(int i=0;i<n;i++) 
 //		{
 //           for(int j=0; j<n;j++) 
@@ -131,7 +129,6 @@ public class BasicLoops_PatternLogic {
 //                       *
 //                       *
 //	    int n = 10;
-//		
 //		for(int i=0;i<n;i++) 
 //		{
 //           for(int j=0; j<n;j++) 
@@ -171,9 +168,7 @@ public class BasicLoops_PatternLogic {
 		
 		
          // for A pattern
-		
 //	    int n = 10;
-//		
 //		for(int i=0;i<n;i++) 
 //		{
 //           for(int j=0; j<n;j++) 
@@ -191,7 +186,6 @@ public class BasicLoops_PatternLogic {
 //		}
 		
           // B (half) pattern
-		
 //     	int n = 11;
 //		
 //		for(int i=0;i<n;i++) 
@@ -213,9 +207,7 @@ public class BasicLoops_PatternLogic {
 		
 		
         // I pattern
-		
 //   	int n = 11;
-//		
 //		for(int i=0;i<n;i++) 
 //		{
 //         for(int j=0; j<n;j++) 
@@ -233,8 +225,7 @@ public class BasicLoops_PatternLogic {
 //		}
 		
         // o pattern
-		
-//   	int n = 11;
+//   	int n = 8;
 //		
 //		for(int i=0;i<n;i++) 
 //		{
