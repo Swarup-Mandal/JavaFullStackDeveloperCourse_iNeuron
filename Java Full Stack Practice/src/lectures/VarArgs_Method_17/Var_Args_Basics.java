@@ -37,7 +37,7 @@ class Demo2{
       int total =0;
       for(int data:x)
       {
-    	  total += data;
+    	  total += data; 
       }
       System.out.println("The SUM is(by For-each) :  "+total);
    }
