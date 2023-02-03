@@ -14,7 +14,7 @@ final class Test{
     }
 }
 
-public class ImmutableClass {
+public class ImmutableClass_2 {
 
 	public static void main(String[] args){
 	    Test t1 = new Test(10);

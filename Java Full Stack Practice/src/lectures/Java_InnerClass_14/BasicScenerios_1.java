@@ -123,7 +123,7 @@ class Outerr {
 	      y.innerMethod();
 	   }
 	}
-public class BasicScenerios {
+public class BasicScenerios_1 {
 	   public static void main(String[] args) {
 	      Outerr x=new Outerr();
 	      x.outerMethod();

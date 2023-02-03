@@ -1,6 +1,6 @@
 package lectures.Java_WrapperClass_16;
 
-public class AutoUnBoxing_In_WrapperClass {
+public class AutoUnBoxing_In_WrapperClass_9 {
 
 	public static void main(String[] args) {
 		/*AutoUnBoxing

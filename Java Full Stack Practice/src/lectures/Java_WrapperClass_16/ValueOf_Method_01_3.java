@@ -4,7 +4,7 @@ package lectures.Java_WrapperClass_16;
   public static wrapper valueOf(String data) throws java.lang.NumberFormatException;
   public static wrapper valueOf(int data);
 */
-public class ValueOf_Method_1 {
+public class ValueOf_Method_01_3 {
 
 	public static void main(String[] args) {
 		//eg#1.

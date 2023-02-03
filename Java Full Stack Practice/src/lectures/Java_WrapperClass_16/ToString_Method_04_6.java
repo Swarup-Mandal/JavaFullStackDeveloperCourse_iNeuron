@@ -42,7 +42,7 @@ public static String valueOf(long);
 public static String valueOf(float);
 public static String valueOf(double);
 */
-public class ToString_Method_4 {
+public class ToString_Method_04_6 {
 
 	public static void main(String[] args) {
 		//form - 1 

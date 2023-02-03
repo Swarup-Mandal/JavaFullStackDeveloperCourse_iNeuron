@@ -59,7 +59,7 @@ class Outer1 {
 
 //Class 3
 //Main class
-public class Static_InnerClass_03 {
+public class Static_InnerClass_03_4 {
 
 	// Main driver method
 	public static void main(String args[])

@@ -10,7 +10,7 @@ class Test
 //parseXXX() => converts String to primitive type
 //commandline arguments => String inputs = args[0],args[1]
 */
-public class Real_ExampleOfWrapperClass {
+public class Real_ExampleOfWrapperClass_7 {
 
 	public static void main(String[] args) {
 		

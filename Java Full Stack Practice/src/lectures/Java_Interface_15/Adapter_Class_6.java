@@ -60,7 +60,7 @@ class TestApp extends AdapaterX{
    }
 }
 
-public class Adapter_Class {
+public class Adapter_Class_6 {
 
 	public static void main(String[] args) {
 		TestI t = new TestI();

@@ -52,7 +52,7 @@ class Student extends Person{  //Child class extends Parent class
      }
 }
 
-public class Interface_VS_AbstractClass {
+public class Interface_VS_AbstractClass_7 {
 
 	public static void main(String[] args) {
 		//for eg:1

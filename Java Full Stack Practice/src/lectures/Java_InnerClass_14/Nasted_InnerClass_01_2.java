@@ -13,7 +13,7 @@ class OuterClasss{
 		}
 	}
 }
-public class Nasted_InnerClass_01 {
+public class Nasted_InnerClass_01_2 {
 
 	public static void main(String[] args) {
 		OuterClasss obj = new OuterClasss();

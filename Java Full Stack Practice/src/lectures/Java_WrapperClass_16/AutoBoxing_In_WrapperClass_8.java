@@ -11,7 +11,7 @@ also.All the requried conversion will be done by the compiler automatically, thi
 mechanism is called as "AutoBoxing" and
 "AutoUnBoxing".*/
 
-public class AutoBoxing_In_WrapperClass {
+public class AutoBoxing_In_WrapperClass_8 {
 
 	public static void main(String[] args) {
 		//eg#1.

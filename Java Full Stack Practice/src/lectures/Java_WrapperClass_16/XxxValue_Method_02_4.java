@@ -13,7 +13,7 @@ public double doubleValue();*/
   3. booleanValue() => public boolean booleanValue()
   # In total xxxValue() are 36 in number.
 => xxxValue() => convert the Wrapper Object => primitive.*/
-public class XxxValue_Method_2 {
+public class XxxValue_Method_02_4 {
 
 	public static void main(String[] args) {
 		

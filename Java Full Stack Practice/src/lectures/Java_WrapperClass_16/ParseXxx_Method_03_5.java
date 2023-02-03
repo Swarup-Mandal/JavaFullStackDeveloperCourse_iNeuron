@@ -17,7 +17,7 @@ to convert Specified radix String to primitive type.
 
 Note: String => parseXXX() => primitive type*/
 
-public class ParseXxx_Method_3 {
+public class ParseXxx_Method_03_5 {
 
 	public static void main(String[] args) {
 		//eg: form-1 

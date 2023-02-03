@@ -48,7 +48,7 @@ class SubSampleImpl extends SampleImpl{     //extending by a subclass.
 		System.out.println("Implementation given by sub/child class for m2 () method.");
 	}
 }
-public class Basic_Interface {
+public class Basic_Interface_1 {
 
 	public static void main(String[] args) {
 		//creating object by loose coupling

@@ -42,7 +42,7 @@ class Demo2{
       System.out.println("The SUM is(by For-each) :  "+total);
    }
 }
-public class Var_Args_Basics {
+public class Var_Args_Basics1 {
 
 	public static void main(String[] args) {
 		////eg#1 calling

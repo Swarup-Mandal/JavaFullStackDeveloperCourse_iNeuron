@@ -19,7 +19,7 @@ interface Cloneable{
 class SampleImple implements Cloneable{
 }
 
-public class Marker_Interface {
+public class Marker_Interface_5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -12,7 +12,7 @@ have adopted the same pattern. In general, replace:
 (Note that the caching behavior mentioned above differs with the type and the Java platform,
 		but the Java 9+ deprecation applies notwithstanding these differences.) */
 
-public class Basic_WrapperClass {
+public class Basic_WrapperClass_1 {
 	public static void main(String[] args) {
 //		Integer i=new Integer(10);
 //		 Integer i1=new Integer("10");    //

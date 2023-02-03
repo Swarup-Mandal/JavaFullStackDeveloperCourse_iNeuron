@@ -1,6 +1,6 @@
 package lectures.Java_WrapperClass_16;
 
-public class AllCasesOF_AutoBoxing_AutoUnBoxing {
+public class AllCasesOF_AutoBoxing_AutoUnBoxing_10 {
 	////CASE - 1 ***************
 	
 //	static Integer ii1 = 10;// AutoBoxing  => integer to Wrapper Object

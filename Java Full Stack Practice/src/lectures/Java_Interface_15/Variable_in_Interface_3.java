@@ -24,7 +24,7 @@ interface Remote{
  */
 
 
-public class Variable_in_Interface implements Remote{
+public class Variable_in_Interface_3 implements Remote{
 		 public static void main(String... args){
 		    //VOLUME=0;//CE:: cannot assign a value to final variable VOLUME
 			 System.out.println("value of volume is(Interface) ::"+VOLUME);

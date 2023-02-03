@@ -64,7 +64,7 @@ package lectures.Java_Interface_15;
 			
 
 
-public class Interface_Naming_Conflicts implements Lefft,Rigght{
+public class Interface_Naming_Conflicts_4 implements Lefft,Rigght{
 
 	public static void main(String[] args) {
 		System.out.println("Check all the case above of Interface_Naming_Conflicts");

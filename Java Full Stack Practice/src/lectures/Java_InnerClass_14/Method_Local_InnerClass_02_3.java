@@ -36,7 +36,7 @@ class Outer {
 	}
 }
 //Main class
-public class Method_Local_InnerClass_02 {
+public class Method_Local_InnerClass_02_3 {
 
 	public static void main(String[] args) {
 		// Creating object of outer class inside main() method.

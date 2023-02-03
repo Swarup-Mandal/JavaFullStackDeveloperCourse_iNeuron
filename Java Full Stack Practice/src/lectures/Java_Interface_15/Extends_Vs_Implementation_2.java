@@ -73,7 +73,7 @@ class SampleeImpl implements IThree{
 	public void methodThree() {}
 	
 }
-public class Extends_Vs_Implementation {
+public class Extends_Vs_Implementation_2 {
 
 	public static void main(String[] args) {
 		
