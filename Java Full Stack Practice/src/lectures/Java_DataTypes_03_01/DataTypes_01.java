@@ -1,6 +1,6 @@
-package lectures.Java_Introduction_01;
+package lectures.Java_DataTypes_03_01;
 
-public class DataTypes_03 {
+public class DataTypes_01 {
 
 	public static void main(String[] args) {
 		// Size of Byte
@@ -43,7 +43,7 @@ public class DataTypes_03 {
 		byte num1 = 27; //valid  max value
 //		byte num2 = 129; //invalid  max value exceeds (C.E) incompatible type error--> integer can't be converted in byte
 		
-//		byte result = num + num1; //Unresolved compilation problem:Type mismatch: cannot convert from int to byte bcz ans is in int 
+//		byte result = num + num1; //Unresolved compilation problem:Type mismatch: cannot convert from int to byte bcz ans is in int beacause trancation happend here
 		   //Solution
 		int result = num + num1; //Automatic type promotion to int --> byte * byte = int (expression).so, you have to store result in integer.
 	          //or

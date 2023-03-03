@@ -1,6 +1,6 @@
-package lectures.Java_Introduction_01;
+package lectures.Java_DataTypes_03_01;
 
-public class TypeCasting_04 {
+public class TypeCasting_03 {
 
 	public static void main(String[] args) {
 		//Type Casting 
