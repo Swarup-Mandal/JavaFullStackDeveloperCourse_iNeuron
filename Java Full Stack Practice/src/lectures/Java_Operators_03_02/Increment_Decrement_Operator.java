@@ -5,7 +5,7 @@ public class Increment_Decrement_Operator {
 	public static void main(String[] args) {
 		
 	//Increment ---------->
-		   //Post Increment (1st use it/print it / give it then increment it by 1
+		   //Post Increment (1st use it/print it / give it then increment it by 1)
 		int a = 10;
 		a = a + 1;
 		System.out.println(a); //11
@@ -16,7 +16,7 @@ public class Increment_Decrement_Operator {
 		
 		int b = 5;
 		int c = b++; //  c=5 ,bcz b will give the 5 to c then in the next line b will incremented by 1
-		System.out.println(" increment "+ b); //b=6  bcz  b++ hapened
+		System.out.println(" incremented "+ b); //b=6  bcz  b++ hapened
 		System.out.println(c);//c=5 bcz b=>5
 		
 		   //Pre Increment

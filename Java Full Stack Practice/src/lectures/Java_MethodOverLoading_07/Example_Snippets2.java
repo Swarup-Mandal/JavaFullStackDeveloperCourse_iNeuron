@@ -18,7 +18,7 @@ public class Example_Snippets2 {
 
 	public static void main(String[] args) {
 		Calculator1 calc = new Calculator1();
-		System.out.println(calc.add(10, 20));      //Here, 1o is an integer and it implicitly stores in float  
+		System.out.println(calc.add(10, 20));      //Here, 10 is an integer and it implicitly stores in float  
 
 	}
 

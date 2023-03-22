@@ -7,18 +7,38 @@ integer type irrespective of we are storing in float or others type.
 int + int  = int
 byte + byte = int
 short + short = int
-
-byte  + long = long
+char + char = int
 
 long + long = long  //**
+byte  + long = long
+short  + long = long
+char  + long = long
+int  + long = long
 
 for float and Double it would the bigger data type---->
 float + float = float
 double + double = double
+
 float + double = double
 float + int = float
 float + long = float
+float + char = float
+float + short  = float
+float + byte = float
+
+
+double + byte = double   //so, Double is a bigger data type in primitive 
+double + short  = double  //this why every type of primitive type can be promoted 
+double + char = double //Means we can store and we can do operation also with Double and it return always Double
+double + int = double
 double + long = double
+double + float = double
+double + double = double
+
+**so, Double is a bigger data type in primitive this why every type of primitive
+* can be promoted Means we can store and we can do operation also with Double and it 
+* return always Double
+
 */
 public class Truncation_RoundingToZero_02 {
 
@@ -31,6 +51,11 @@ public class Truncation_RoundingToZero_02 {
         byte res = (byte) (num1+num2);
         System.out.println(result);
         System.out.println(res);
+        char aa = 'A';
+        char bb = 'B';
+        //char ress = aa + bb;
+        int ress1 = aa + bb;
+        System.out.println(ress1);
         
         
         

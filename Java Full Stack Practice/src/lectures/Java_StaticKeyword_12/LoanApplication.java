@@ -8,7 +8,7 @@ class Loan{
 	private float si;
 	private static float r;
 	
-	static {  //here only onece the variable will assigne at time of class loading.
+	static {  //here only the variable will assigne at time of class loading.
 		r=2.5f;
 	}
 	void input () {

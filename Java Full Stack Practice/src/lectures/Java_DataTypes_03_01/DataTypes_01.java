@@ -1,5 +1,29 @@
 package lectures.Java_DataTypes_03_01;
 
+/**Number
+=========
+  a. byte,short,int,long => we can't represent POSITIVE_INFINITY,NEGATIVE_INFINITY,NaN
+  b. float double => we can represent POSITIVE_INFINITY,NEGATIVE_INFINITY,NaN.*/
+
+/*
+ * ArithmeticExcpetion => It is not a compile time error,it is a
+ *                       RunTimeException It occurs only in integral arithmetic not in floating point
+ *                       arithmetic. The only operator which causes this exception is "%,/".
+ * 
+ * What is NaN ? => “NaN” as many of you have guessed, is used to represent “Not
+ *                  a Number” in Java. It is a special floating point value to denote overflows
+ *                  and errors. It is generated when a floating point number is divided by zero
+ *                  or if the square root of a negative number is computed.
+ * 
+ * POSITIVE_INFINITY ==> Holds the positive infinity value of type double. This
+ *                       value is obtained by dividing 1.0 by 0.0. Its String representation is
+ *                       Infinity. This value is a convention, and its hexadecimal representation is
+ *                        7FF0000000000000. Every double variable with this bitwise value contains positive infinity. 
+ *NEGATIVE_INFINITY ==> This value is obtained by dividing
+ *                      -1.0 by 0.0. Its String representation is -Infinity. This value is also a
+ *                      convention, and its hexadecimal representation is FFF0000000000000. Every
+ *                      double variable with this bitwise value contains negative infinity.
+ */
 public class DataTypes_01 {
 
 	public static void main(String[] args) {
@@ -73,7 +97,7 @@ public class DataTypes_01 {
 	
 		
 		
-		///Here Truncation or Round of zero : happen when int * int = (gives result only in) integer not float or any other data types
+		///Here Truncation or Round of zero : happen when int * int = (gives result only int) integer not float or any other data types
 		
 	   int a = 25;  //actually 25/2 = 12.5 but,
 	   int b = 2;
@@ -104,7 +128,30 @@ public class DataTypes_01 {
 	   System.out.println("char "+ ca);
 	   char da =(char)(65); 
 	   System.out.println("char " +da);	
+	   
+	   
 	
+		/*
+		 * Number ========= 
+		 * a. byte,short,int,long => we can't represent
+		 * POSITIVE_INFINITY,NEGATIVE_INFINITY,NaN 
+		 * b. float double => we can represent
+		 * POSITIVE_INFINITY,NEGATIVE_INFINITY,NaN.
+		 */
+
+	  // eg::
+	        //System.out.println(10/0);  // => ArithmeticException
+	       // System.out.println(0/0);   //=> ArithmeticException
+	       // System.out.println(0%0);   //=> ArithmeticException //it is a RunTimeException It occurs only in integral arithmetic not in floating pointarithmetic. The only operator which causes this exception is "%,/".
+
+	        System.out.println(10/0.0); //=> output : infinity
+	        System.out.println(-10/0.0); //=> output : -infinity
+	        
+	        System.out.println(0.0/0.0); //=> output : NaN
+	        System.out.println(-0.0/0.0);//=>output : NaN
+
+	   
+
 	
 
 	}
